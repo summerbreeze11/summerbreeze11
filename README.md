@@ -34,7 +34,7 @@
 | [Интенисив Школы 21 (СБЕР) на языке C](https://21-school.ru/ "https://21-school.ru/")                                     | 02/2023 - 02/2023 |
 | [Введение в Kotlin JVM](https://stepik.org/course/5448/syllabus "Ссылка на курс")                                     | 02/2023 - 03/2023 |
 | [Neco ru/Разработка android приложений на Kotlin](https://clck.ru/34KWkZ "Ссылка на курс")                                     | 02/2023 - xx/2023 |
-| [Hyperskill.org/Kotlin Core](https://hyperskill.org/profile/453059249 "Ссылка на курс")                                     | 02/2023 - xx/2023 |
+| [Hyperskill.org/Kotlin Core](https://hyperskill.org/profile/453059249 "Ссылка на курс")                                     | 03/2023 - xx/2023 |
 
 ---
 

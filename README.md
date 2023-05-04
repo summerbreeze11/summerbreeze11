@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий android разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с изучения C еще в ВУЗЕ, спустя время я плавно пришел к android разработке, и начал обучаться на курсе [HyperSkill](https://hyperskill.org/profile/453059249/ "Ссылка на мой профиль"), в феврале 2023 я прошел интенсив от школы 21.
+Я начинающий Android разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с изучения C еще в ВУЗЕ, спустя время я плавно пришел к Android разработке, и начал обучаться на курсе [HyperSkill](https://hyperskill.org/profile/453059249/ "Ссылка на мой профиль"), в феврале 2023 я прошел интенсив от Школы 21.
 
 - :zap: Моя цель - работать в IT через полгода.
 
